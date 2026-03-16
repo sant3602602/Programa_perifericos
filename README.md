@@ -2,6 +2,7 @@
 # Sistema de Gestión de Periféricos
 #Santiago Morales Toro
 #ID: 264090
+#Trabajo hecho individualmente debido a mi disponibilidad de tiempo para reuniones con compañeros. Motivo: trabajo mas estudio.
 
 ## Enunciado del sistema
 
