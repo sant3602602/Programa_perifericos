@@ -2,7 +2,11 @@
 # Sistema de Gestión de Periféricos
 #Santiago Morales Toro
 #ID: 264090
-#Trabajo hecho individualmente debido a mi disponibilidad de tiempo para reuniones con compañeros. Motivo: trabajo mas estudio.
+## Nota sobre el desarrollo del proyecto
+
+Este trabajo fue realizado de manera individual debido a mi disponibilidad limitada de tiempo para coordinar reuniones con compañeros, ya que actualmente estoy combinando responsabilidades de trabajo y estudio.
+
+Por esta razón, el desarrollo del sistema, el diseño del diagrama UML y la implementación del código fueron realizados completamente por mi.
 
 ## Enunciado del sistema
 
