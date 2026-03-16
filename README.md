@@ -1,5 +1,7 @@
 # Programa_perifericos
 # Sistema de Gestión de Periféricos
+#Santiago Morales Toro
+#ID: 264090
 
 ## Enunciado del sistema
 
