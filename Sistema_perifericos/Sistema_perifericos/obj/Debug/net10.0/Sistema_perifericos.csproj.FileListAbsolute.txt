@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\bin\Debug\net10.0\Sistema_perifericos.exe
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\bin\Debug\net10.0\Sistema_perifericos.deps.json
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\bin\Debug\net10.0\Sistema_perifericos.runtimeconfig.json
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\bin\Debug\net10.0\Sistema_perifericos.dll
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\bin\Debug\net10.0\Sistema_perifericos.pdb
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.dll
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\refint\Sistema_perifericos.dll
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.pdb
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.genruntimeconfig.cache
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\ref\Sistema_perifericos.dll
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\bin\Debug\net10.0\CsvHelper.dll
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_perifericos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sistema_perifericos\Sistema_perifericos\obj\Debug\net10.0\Sistema_.FA4F9A14.Up2Date
