@@ -1,4 +1,4 @@
-﻿using Sistema_perifericos.clases;
+using Sistema_perifericos.clases;
 using Sistema_perifericos.Servicios;
 
 namespace Sistema_perifericos
@@ -13,8 +13,9 @@ namespace Sistema_perifericos
             {
                 Console.WriteLine("1. Crear periférico");
                 Console.WriteLine("2. Listar periféricos");
-                Console.WriteLine("3. Eliminar periférico");
-                Console.WriteLine("4. Salir");
+                Console.WriteLine("3. Actualizar periférico");
+                Console.WriteLine("4. Eliminar periférico");
+                Console.WriteLine("5. Salir");
 
                 int op = int.Parse(Console.ReadLine());
 
@@ -45,15 +46,37 @@ namespace Sistema_perifericos
 
                 else if (op == 3)
                 {
+                    Console.Write("Ingrese el ID del periférico a actualizar: ");
+                    int id = int.Parse(Console.ReadLine());
+
+                    Periferico nuevo = new Periferico();
+
+                    Console.Write("Nuevo nombre: ");
+                    nuevo.Nombre = Console.ReadLine();
+
+                    Console.Write("Nueva marca: ");
+                    nuevo.Marca = Console.ReadLine();
+
+                    Console.Write("Nuevo precio: ");
+                    nuevo.Precio = double.Parse(Console.ReadLine());
+
+                    servicio.Actualizar(id, nuevo);
+                }
+
+                else if (op == 4)
+                {
                     Console.Write("Id a eliminar: ");
                     int id = int.Parse(Console.ReadLine());
 
                     servicio.Eliminar(id);
                 }
 
-                else
+                else if (op == 5)
+                {
                     break;
+                }
             }
         }
     }
 }
+
